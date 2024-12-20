@@ -23,7 +23,6 @@ This repository showcases the lectures I've delivered voluntarily to empower lea
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1180336409788797">Variables</td>
     <td align="center"><a href="https://colab.research.google.com/drive/1rvfeJk2amjWDewSQkq2WrpqXLhyxTWci#scrollTo=5n368lC2ltWU">Practice File</td>
         <td align="center">Print Function<br/> Variables<br/>Rules to assign variables name<br/>Type of Variable Cases <br/>id () Function</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
     <tr>
     <td align="center" colspan="5">No Class</td>   
@@ -33,7 +32,6 @@ This repository showcases the lectures I've delivered voluntarily to empower lea
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1191962478649652">Data Types</td>
     <td align="center"><a href="https://colab.research.google.com/drive/1it4fZ__D5O8aez4NGMbuAUTo9Er4JOvV#scrollTo=Uip_PSoY6_sV">Practice File</td>
         <td align="center">Comments<br/>Data Type<br/> type() function<br/>input() function<br/>Type Casting</td>
-      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
         <tr>
     <td align="center"><b>Day 04</b></br>14-Jun-2024</td>
