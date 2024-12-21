@@ -3,3 +3,4 @@ This repository showcases the lectures I've delivered voluntarily to empower lea
 
 # Python For Absolute Beginners
 
+|Table |goes |here
