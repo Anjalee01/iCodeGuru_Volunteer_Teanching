@@ -14,8 +14,8 @@
   <tbody>
    <tr>
   <td>Monday<br>23-Dec-2024</td>
-  <td><a href="https://example.com/introduction-to-python">Introduction to Python</a></td>
-  <td><a href="https://example.com/slides">Slides</a></td>
+  <td><a href="[https://example.com/introduction-to-python](https://www.facebook.com/iCodeguru/videos/967958858510999)">Introduction to Python</a></td>
+  <td><a href="">Slides</a></td>
   <td>
     <ul>
       <li>Introduction to Python</li>
