@@ -55,9 +55,7 @@
   <td><a href="https://docs.google.com/presentation/d/1hnFH3qkJaWN-ItD1uvdYnSX1mTflg3qY84IXwPjQ2Go/edit#slide=id.p">Slides</a></td>
   <td>
     <ul>
-      <li>Introduction to Python</li>
-      <li>Features & Applications of Python</li>
-      <li>IDE for Python</li>
+      <li>Introduction to HTML</li>
     </ul>
   </td>
 </tr>
@@ -68,9 +66,7 @@
   <td><a href="https://docs.google.com/presentation/d/1zcriCMM78ILA2shNh8NZuKOmjwMlMxA5jDYHqLc6Rbg/edit#slide=id.g2d5c74e12db_0_0">Slides</a></td>
   <td>
     <ul>
-      <li>Introduction to Python</li>
-      <li>Features & Applications of Python</li>
-      <li>IDE for Python</li>
+      <li>Theme Development</li>
     </ul>
   </td>
 </tr>
