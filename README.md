@@ -64,8 +64,8 @@
 
 <tr>
   <td>Monday<br>19-Nov-2024</td>
-  <td><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=922553386450345">Wordpress Theme Development</a></td>
-  <td><a href="https://drive.google.com/file/d/1h_JOpKmf2DyuQ8-3Nar34QtMDJeLscJX/view?usp=sharing">Slides</a></td>
+  <td><a href="https://www.facebook.com/iCodeguru/videos/591238493470194">Wordpress Theme Development</a></td>
+  <td><a href="https://docs.google.com/presentation/d/1zcriCMM78ILA2shNh8NZuKOmjwMlMxA5jDYHqLc6Rbg/edit#slide=id.g2d5c74e12db_0_0">Slides</a></td>
   <td>
     <ul>
       <li>Introduction to Python</li>
