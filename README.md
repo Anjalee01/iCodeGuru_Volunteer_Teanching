@@ -25,11 +25,7 @@
   </td>
 </tr>
 
-      
-      
-    
-     
-    
+   
   </tbody>
 </table>
 
@@ -50,7 +46,7 @@
   </thead>
   <tbody>
    <tr>
-  <td>Monday<br>11-Nov-2024</td>
+  <td>Tuesday<br>12-Nov-2024</td>
   <td><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=922553386450345">𝐇𝐓𝐌𝐋 𝐋𝐚𝐲𝐨𝐮𝐭 and 𝐁𝐚𝐬𝐢𝐜 𝐇𝐓𝐌𝐋 𝐓𝐚𝐠𝐬</a></td>
   <td><a href="https://docs.google.com/presentation/d/1hnFH3qkJaWN-ItD1uvdYnSX1mTflg3qY84IXwPjQ2Go/edit#slide=id.p">Slides</a></td>
   <td>
@@ -61,7 +57,7 @@
 </tr>
 
 <tr>
-  <td>Monday<br>19-Nov-2024</td>
+  <td>Tuesday<br>19-Nov-2024</td>
   <td><a href="https://www.facebook.com/iCodeguru/videos/591238493470194">Wordpress Theme Development</a></td>
   <td><a href="https://docs.google.com/presentation/d/1zcriCMM78ILA2shNh8NZuKOmjwMlMxA5jDYHqLc6Rbg/edit#slide=id.g2d5c74e12db_0_0">Slides</a></td>
   <td>
