@@ -101,6 +101,7 @@
   <td>
     <ul>
       <li>Typecasting</li>
+      <li>Arthmetics Operators</li>
       <li>Assignment Operators</li>
     </ul>
   </td>
