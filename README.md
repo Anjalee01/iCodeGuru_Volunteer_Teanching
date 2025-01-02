@@ -26,7 +26,7 @@
 </tr>
 
 <tr>
-  <td>Monday<br>23-Dec-2024</td>
+  <td>Monday<br>30-Dec-2024</td>
   <td><a href="https://www.facebook.com/iCodeguru/videos/1375789286727245/">Functions</a></td>
   <td><a href="https://colab.research.google.com/drive/1F16FvkamHLs-E8k1YJSFZ_8Jbh4mO6Ym?usp=sharing">Practice File</a></td>
   <td>
