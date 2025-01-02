@@ -44,8 +44,6 @@
 
 # Wordpress Bootcamp Batch6
 
-
-
 <table>
   <thead>
     <tr>
@@ -81,8 +79,6 @@
 
 
 # Mastering Python from Basics to Advanced Expertise 
-
-
 
 <table>
   <thead>
