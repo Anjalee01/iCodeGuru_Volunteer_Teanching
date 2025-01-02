@@ -80,7 +80,7 @@
 </table>
 
 
-## Mastering Python from Basics to Advanced Expertise 
+# Mastering Python from Basics to Advanced Expertise 
 
 
 
@@ -95,28 +95,18 @@
   </thead>
   <tbody>
    <tr>
-  <td>Monday<br>23-Dec-2024</td>
+  <td>Thursday<br>2-Jan-2025</td>
   <td><a href="https://www.facebook.com/iCodeguru/videos/1665511421048471">Operators In Python</a></td>
   <td><a href="https://colab.research.google.com/drive/1ys-XWdrwoNXQlPcpD5L7EFQLBrQWiJRN#scrollTo=RAXWEUVsSLXi">Slides</a></td>
   <td>
     <ul>
-      <li>Introduction to Python</li>
-      <li>Features & Applications of Python</li>
-      <li>IDE for Python</li>
+      <li>Typecasting</li>
+      <li>Assignment Operators</li>
     </ul>
   </td>
 </tr>
 
-<tr>
-  <td>Monday<br>23-Dec-2024</td>
-  <td><a href="https://www.facebook.com/iCodeguru/videos/1375789286727245/">Introduction to Python</a></td>
-  <td><a href="https://colab.research.google.com/drive/1F16FvkamHLs-E8k1YJSFZ_8Jbh4mO6Ym?usp=sharing">Practice File</a></td>
-  <td>
-    <ul>
-      <li>Functions</li>
-    </ul>
-  </td>
-</tr>
+
 
   </tbody>
 </table>
