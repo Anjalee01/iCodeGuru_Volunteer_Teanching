@@ -76,7 +76,8 @@
   </td>
 </tr>
 
-
+ </tbody>
+</table>
 
 
 ## Mastering Python from Basics to Advanced Expertise 
@@ -126,5 +127,4 @@
     
      
     
-  </tbody>
-</table>
+ 
