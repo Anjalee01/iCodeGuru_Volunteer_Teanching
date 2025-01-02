@@ -78,7 +78,7 @@
 
 
 
-# Mastering Python from Basics to Advanced Expertise 
+
 
 <table>
   <thead>
