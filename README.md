@@ -1,7 +1,6 @@
 # Python For Begginers
 
 
-
 <table>
   <thead>
     <tr>
