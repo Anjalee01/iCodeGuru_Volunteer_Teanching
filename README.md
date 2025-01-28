@@ -44,7 +44,6 @@
 <table>
   <thead>
     <tr>
-      <th>Day</th>
       <th>Video Links (Facebook)</th>
       <th>Materials</th>
       <th>Topics</th>
@@ -52,7 +51,6 @@
   </thead>
   <tbody>
    <tr>
-  <td>Tuesday<br>12-Nov-2024</td>
   <td><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=922553386450345">𝐇𝐓𝐌𝐋 𝐋𝐚𝐲𝐨𝐮𝐭 and 𝐁𝐚𝐬𝐢𝐜 𝐇𝐓𝐌𝐋 𝐓𝐚𝐠𝐬</a></td>
   <td><a href="https://docs.google.com/presentation/d/1hnFH3qkJaWN-ItD1uvdYnSX1mTflg3qY84IXwPjQ2Go/edit#slide=id.p">Slides</a></td>
   <td>
@@ -63,7 +61,6 @@
 </tr>
 
 <tr>
-  <td>Tuesday<br>19-Nov-2024</td>
   <td><a href="https://www.facebook.com/iCodeguru/videos/591238493470194">Wordpress Theme Development</a></td>
   <td><a href="https://docs.google.com/presentation/d/1zcriCMM78ILA2shNh8NZuKOmjwMlMxA5jDYHqLc6Rbg/edit#slide=id.g2d5c74e12db_0_0">Slides</a></td>
   <td>
@@ -84,7 +81,6 @@
 <table>
   <thead>
     <tr>
-      <th>Day</th>
       <th>Video Links (Facebook)</th>
       <th>Materials</th>
       <th>Topics</th>
@@ -92,7 +88,6 @@
   </thead>
   <tbody>
    <tr>
-  <td>Thursday<br>2-Jan-2025</td>
   <td><a href="https://www.facebook.com/iCodeguru/videos/1665511421048471">Operators In Python</a></td>
   <td><a href="https://colab.research.google.com/drive/1ys-XWdrwoNXQlPcpD5L7EFQLBrQWiJRN#scrollTo=RAXWEUVsSLXi">Slides</a></td>
   <td>
