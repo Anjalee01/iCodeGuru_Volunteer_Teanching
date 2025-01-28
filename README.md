@@ -33,6 +33,18 @@
   </td>
 </tr>
 
+<tr>
+  <td><a href="https://www.facebook.com/iCodeguru/videos/1665511421048471">Operators In Python</a></td>
+  <td><a href="https://colab.research.google.com/drive/1ys-XWdrwoNXQlPcpD5L7EFQLBrQWiJRN#scrollTo=RAXWEUVsSLXi">Slides</a></td>
+  <td>
+    <ul>
+      <li>Typecasting</li>
+      <li>Arthmetics Operators</li>
+      <li>Assignment Operators</li>
+    </ul>
+  </td>
+</tr>
+
    
   </tbody>
 </table>
@@ -74,35 +86,10 @@
 </table>
 
 
-# Mastering Python from Basics to Advanced Expertise 
 
 
 
-<table>
-  <thead>
-    <tr>
-      <th>Video Links (Facebook)</th>
-      <th>Materials</th>
-      <th>Topics</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr>
-  <td><a href="https://www.facebook.com/iCodeguru/videos/1665511421048471">Operators In Python</a></td>
-  <td><a href="https://colab.research.google.com/drive/1ys-XWdrwoNXQlPcpD5L7EFQLBrQWiJRN#scrollTo=RAXWEUVsSLXi">Slides</a></td>
-  <td>
-    <ul>
-      <li>Typecasting</li>
-      <li>Arthmetics Operators</li>
-      <li>Assignment Operators</li>
-    </ul>
-  </td>
-</tr>
 
-
-
-  </tbody>
-</table>
 
 
       
