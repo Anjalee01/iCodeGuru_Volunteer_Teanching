@@ -45,6 +45,19 @@
   </td>
 </tr>
 
+
+<tr>
+  <td><a href="https://www.facebook.com/share/v/19tgmzhmmq/">File Handling In Python</a></td>
+  <td><a href="https://colab.research.google.com/drive/10jLX2MaoL02QOIYV2mhA9k0RrR6G0MwQ#scrollTo=B0Fv2DNPlxx3&uniqifier=1">Colab File</a></td>
+  <td>
+    <ul>
+      <li>File Handling</li>
+      <li>Write Mode</li>
+      <li>Read Mode</li>
+      <li>x Mode</li>
+    </ul>
+  </td>
+</tr>
    
   </tbody>
 </table>
