@@ -1,3 +1,31 @@
+# Data Structure And Algorithms
+
+<table>
+  <thead>
+    <tr>
+      <th>Video Links (Facebook)</th>
+      <th>Materials</th>
+      <th>Topics</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+  <td><a href="https://www.facebook.com/iCodeguru/videos/1778389219387894/">Leetcode Questions(Array)</a></td>
+  <td><a href="https://leetcode.com/problems/single-number/description/">Slides</a></td>
+  <td>
+    <ul>
+      <li>Q136 (Single Number)</li>
+      <li>Q1920 Build Array from Permutation</li>
+    </ul>
+  </td>
+</tr>
+
+
+   
+  </tbody>
+</table>
+
+
 # Python For Begginers
 
 
