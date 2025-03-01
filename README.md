@@ -4,20 +4,20 @@
   <thead>
     <tr>
       <th>Video Links (Facebook)</th>
-      <th>Topics</th>
       <th>Material</th>
+      <th>Topics</th>
     </tr>
   </thead>
   <tbody>
    <tr>
   <td><a href="https://www.facebook.com/iCodeguru/videos/1778389219387894/">Leetcode Questions(Array)</a></td>
-  <td>Array</td>
   <td>
     <ul>
       <li><a href="https://leetcode.com/problems/single-number/description/">Q136 (Single Number)</a></li>
       <li><a href="https://leetcode.com/problems/build-array-from-permutation/description/">Q1920 Build Array from Permutation</li>
     </ul>
   </td>
+  <td>Array</td>
 </tr>
 
 
