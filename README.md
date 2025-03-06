@@ -21,7 +21,7 @@
 </tr>
 
  <tr>
-  <td><a href="https://www.facebook.com/iCodeguru/videos/1635716397072104/">Leetcode Questions(Array)</a></td>
+  <td><a href="https://www.facebook.com/iCodeguru/videos/1635716397072104/">String Operations</a></td>
   <td><a href="https://colab.research.google.com/drive/1Z1scDJuaNrnYlA_YCJqDQ6g34Doq_aC1#scrollTo=Q4PiMcribQW5">Colab File</a>
   </td>
   <td>String Operations(DSA)</td>
