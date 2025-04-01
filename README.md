@@ -3,14 +3,14 @@
 <table>
   <thead>
     <tr>
-      <th>Video Links (Facebook)</th>
+      <th>Video Links</th>
       <th>Material</th>
       <th>Topics</th>
     </tr>
   </thead>
   <tbody>
    <tr>
-  <td><a href="https://www.facebook.com/iCodeguru/videos/1778389219387894/">Leetcode Questions(Array)</a></td>
+  <td><a href="">Video Link</a></td>
   <td>
     <ul>
       <li><a href="https://leetcode.com/problems/single-number/description/">Q136 (Single Number)</a></li>
