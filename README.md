@@ -1,3 +1,38 @@
+# Webinars
+
+<table>
+  <thead>
+    <tr>
+      <th>Video Links (Facebook)</th>
+      <th>Material</th>
+      <th>Topics</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+  <td><a href="https://www.facebook.com/iCodeguru/videos/1778389219387894/">Leetcode Questions(Array)</a></td>
+  <td>
+    <ul>
+      <li><a href="https://leetcode.com/problems/single-number/description/">Q136 (Single Number)</a></li>
+      <li><a href="https://leetcode.com/problems/build-array-from-permutation/description/">Q1920 Build Array from Permutation</a></li>
+    </ul>
+  </td>
+  <td>Array</td>
+</tr>
+
+ <tr>
+  <td><a href="https://www.facebook.com/iCodeguru/videos/1635716397072104/">String Operations</a></td>
+  <td><a href="https://colab.research.google.com/drive/1Z1scDJuaNrnYlA_YCJqDQ6g34Doq_aC1#scrollTo=Q4PiMcribQW5">Colab File</a>
+  </td>
+  <td>String Operations(DSA)</td>
+</tr>
+
+   
+  </tbody>
+</table>
+
+
+
 # Data Structure And Algorithms
 
 <table>
