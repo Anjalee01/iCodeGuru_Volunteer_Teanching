@@ -59,7 +59,7 @@
 </tr>
 
  <tr>
-  <td><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=509005611982575"></a>Dictionaries</td>
+  <td><a href="https://www.facebook.com/iCodeguru/videos/509005611982575"></a>Dictionaries</td>
   <td>
     <ul>
       <li><a href="https://docs.google.com/presentation/d/1ppJDP_5N9NJWIhlBnBtmt34KI-EFVmhM/edit?slide=id.p1#slide=id.p1">Slides</a></li>
