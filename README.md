@@ -58,6 +58,17 @@
   <td>String Operations(DSA)</td>
 </tr>
 
+ <tr>
+  <td><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=509005611982575"></a>Dictionaries</td>
+  <td>
+    <ul>
+      <li><a href="https://docs.google.com/presentation/d/1ppJDP_5N9NJWIhlBnBtmt34KI-EFVmhM/edit?slide=id.p1#slide=id.p1">Slides</a></li>
+      <li><a href="https://leetcode.com/problems/design-hashmap/description/">706. Design HashMap</a></li>
+    </ul>
+  </td>
+  <td>Dictionary(DSA)</td>
+</tr>
+
    
   </tbody>
 </table>
