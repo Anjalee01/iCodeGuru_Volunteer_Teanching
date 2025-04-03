@@ -5,7 +5,7 @@
     <tr>
       <th>Topic</th>
       <th>Joined as</th>
-      <th>Video Link</th>
+      <th>Video Link and Slides</th>
     </tr>
   </thead>
   <tbody>
@@ -13,6 +13,16 @@
   <td>How to join Code In Place as Section Leader</td>
   <td>Moderator</td>
   <td><a href="https://drive.google.com/file/d/1HYrURPdU-3O_38udscBhgPCur7B3_Cay/view">Link</a></td>
+</tr>  
+    <tr>
+  <td>How to join Code In Place as Section Leader</td>
+  <td>Speaker</td>
+  <td>
+    <ul>
+      <li><a href="https://drive.google.com/drive/u/2/my-drive">Video Link</a></li>
+      <li><a href="https://docs.google.com/presentation/d/1-xwVTL1LUHX9sRQT3k8RkCGJZvivV8tG/edit?slide=id.p1#slide=id.p1">Slides</a></li>
+    </ul>
+  </td>
 </tr>  
   </tbody>
 </table>
