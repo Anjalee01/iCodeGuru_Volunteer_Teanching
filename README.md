@@ -134,6 +134,18 @@
     </ul>
   </td>
 </tr>
+
+<tr>
+  <td><a href="https://www.facebook.com/watch/?v=676423264772096">List-Data Structure</a></td>
+  <td><a href="https://colab.research.google.com/drive/1ZMbWY8-AKHi6tU9qKDM8JXzs0Pg5m1Wf#scrollTo=bfE7hHc0nmWV">Colab File</a></td>
+  <td>
+    <ul>
+      <li>Initialize List</li>
+      <li>Access list elements through +ve and -ve index</li>
+      <li>Update list elemensts</li>
+    </ul>
+  </td>
+</tr>
    
   </tbody>
 </table>
