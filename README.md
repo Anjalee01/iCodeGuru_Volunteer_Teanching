@@ -1,3 +1,29 @@
+# Workshops
+
+<table>
+  <thead>
+    <tr>
+      <th>Topic</th>
+      <th>Joined as</th>
+      <th>Video Link and Slides</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+  <td>Python For Beginners</td>
+  <td>Trainer</td>
+  <td>
+    <ul>
+      <li><a href="https://www.facebook.com/iCodeguru/videos/982139087441659/">Video Link</a></li>
+      <li><a href="https://colab.research.google.com/drive/1NPwP2nRSjcTJlsSgIyuIFWVtF0RUXP6A">Slides</a></li>
+    </ul>
+  </td>
+</tr>  
+  </tbody>
+</table>
+
+
+
 # Webinars
 
 <table>
