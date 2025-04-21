@@ -172,6 +172,18 @@
     </ul>
   </td>
 </tr>
+
+<tr>
+  <td><a href="https://www.facebook.com/iCodeguru/videos/1009868784673771">Basic Data Analysis Using Pandas</a></td>
+  <td><a href="https://colab.research.google.com/drive/1lXcAAa7o9ND01FQjBUrHH-Ph6Y7qcwEf">Colab File</a></td>
+  <td>
+    <ul>
+      <li>Viewing Data</li>
+      <li>Checking For Missing Values</li>
+      <li>Data Cleaning</li>
+    </ul>
+  </td>
+</tr>
    
   </tbody>
 </table>
