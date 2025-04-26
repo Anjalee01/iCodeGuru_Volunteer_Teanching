@@ -53,7 +53,25 @@
   </tbody>
 </table>
 
+# Data Structure And Algorithms
 
+<table>
+  <thead>
+    <tr>
+      <th>Video Links (Facebook)</th>
+      <th>Material</th>
+      <th>Topics</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+  <td><a href="https://www.youtube.com/live/z2V4HbAVCSE?si=d5RoHOh_zVRxzmkw"> Lecture Link </a></td>
+  <td> <a href="https://huggingface.co/">Hugging Face</a></li>
+  </td>
+  <td>How To Create and Deploy ChatBots Using Hugging Face and ChatGPT</td>
+</tr>
+  </tbody>
+</table>
 
 # Data Structure And Algorithms
 
