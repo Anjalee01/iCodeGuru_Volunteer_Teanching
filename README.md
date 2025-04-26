@@ -58,7 +58,7 @@
 <table>
   <thead>
     <tr>
-      <th>Video Links (Facebook)</th>
+      <th>Video Links</th>
       <th>Material</th>
       <th>Topics</th>
     </tr>
