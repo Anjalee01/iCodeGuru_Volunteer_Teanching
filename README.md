@@ -53,7 +53,7 @@
   </tbody>
 </table>
 
-# Data Structure And Algorithms
+# Generative AI Training
 
 <table>
   <thead>
