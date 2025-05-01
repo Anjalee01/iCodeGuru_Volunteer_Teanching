@@ -70,6 +70,23 @@
   </td>
   <td>How To Create and Deploy ChatBots Using Hugging Face and ChatGPT</td>
 </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/live/cvAoUQMq8V8?si=3TFtSyteAP8bdfRe"> Lecture Link </a></td>
+  <td> 
+    <ul>
+      <li><a href="https://huggingface.co/">Hugging Face</a></li>
+      <li><a href="https://groq.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjUyNTQiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">Groq</a></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li>How to create a chatbot using ChatGPT</li>
+      <li>How to use models from Groq</li>
+      <li>How to insert the API key</li>
+      <li>How to deploy the chatbot app on Hugging Face</li>
+    </ul>
+  </td>
+</tr>
   </tbody>
 </table>
 
