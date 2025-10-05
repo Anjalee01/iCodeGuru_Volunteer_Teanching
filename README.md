@@ -45,7 +45,7 @@
   <td>Speaker</td>
   <td>
     <ul>
-      <li><a href="https://drive.google.com/drive/u/2/my-drive">Video Link</a></li>
+      <li><a href="https://drive.google.com/file/d/1AulBibN4ZWqPj-5D8NxbLIxJWE3wo9GK/view?usp=sharing">Video Link</a></li>
       <li><a href="https://docs.google.com/presentation/d/1-xwVTL1LUHX9sRQT3k8RkCGJZvivV8tG/edit?slide=id.p1#slide=id.p1">Slides</a></li>
     </ul>
   </td>
