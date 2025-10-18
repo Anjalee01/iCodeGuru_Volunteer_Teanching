@@ -55,8 +55,8 @@
   <td>Speaker</td>
   <td>
     <ul>
-      <li><a href=" https://www.youtube.com/watch?v=uPSRDCZJzrc">Video Link</a></li>
-      <li><a href=" https://gamma.app/docs/Calico-Webinar-rdwcxsp55b0tat5?mode=doc">Slides</a></li>
+      <li><a href="https://www.youtube.com/watch?v=uPSRDCZJzrc">Video Link</a></li>
+      <li><a href="https://gamma.app/docs/Calico-Webinar-rdwcxsp55b0tat5?mode=doc">Slides</a></li>
     </ul>
   </td>
 </tr>  
