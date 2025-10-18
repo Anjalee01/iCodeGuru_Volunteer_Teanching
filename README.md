@@ -50,6 +50,16 @@
     </ul>
   </td>
 </tr>  
+    <tr>
+  <td>Why and How to join International Coding Competition(Calico UC Berkeley)</td>
+  <td>Speaker</td>
+  <td>
+    <ul>
+      <li><a href=" https://www.youtube.com/watch?v=uPSRDCZJzrc">Video Link</a></li>
+      <li><a href=" https://gamma.app/docs/Calico-Webinar-rdwcxsp55b0tat5?mode=doc">Slides</a></li>
+    </ul>
+  </td>
+</tr>  
   </tbody>
 </table>
 
