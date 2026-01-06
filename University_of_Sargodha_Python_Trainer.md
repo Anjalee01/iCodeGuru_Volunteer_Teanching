@@ -26,7 +26,6 @@
   <td>
     <ul>
       <li>File Handling</li>
-      <li>User Defined Functions</li>
     </ul>
   </td>
 </tr>
